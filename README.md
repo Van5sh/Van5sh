@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 # 👋 Hey there! Welcome to my GitHub Profile
 
 I'm a **third-year Computer Science student at VIT Vellore**, passionate about leveraging technology to create meaningful impact. I love collaborating with like-minded developers and contributing to **innovative projects**.
