@@ -65,15 +65,6 @@ I'm a **third-year Computer Science student at VIT Vellore**, passionate about l
   <img src="https://nirzak-streak-stats.vercel.app/?user=Van5sh&theme=radical" alt="GitHub Streak" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Van5sh&theme=onedark&no-frame=true&margin-w=10" />
-</p>
-
----
 
 ## 🧭 Visitor Count
 
