@@ -1,6 +1,6 @@
 # 👋 Hey there! Welcome to my GitHub Profile
 
-I'm a **third-year Computer Science student at VIT Vellore**, passionate about leveraging technology to create meaningful impact. I love collaborating with like-minded developers and contributing to **innovative projects**. 🚀
+I'm a **third-year Computer Science student at VIT Vellore**, passionate about leveraging technology to create meaningful impact. I love collaborating with like-minded developers and contributing to **innovative projects**.
 
 ---
 
