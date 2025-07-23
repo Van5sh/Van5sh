@@ -71,6 +71,9 @@ I'm a **third-year Computer Science student at VIT Vellore**, passionate about l
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Van5sh&theme=radical&show_icons=true&count_private=true&hide_border=false" alt="GitHub Stats" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Van5sh&layout=compact&theme=radical&hide_border=false" alt="Top Languages" /> <br /> <img src="https://streak-stats.demolab.com/?user=Van5sh&theme=radical&hide_border=false" alt="GitHub Streak" /> </p>
 
 ---
-<p align="center"> <img src="https://visitcount.itsvg.in/api?id=Van5sh&label=Profile%20Views&color=6C33FF&icon=2&pretty=true" alt="Visitor Count" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Van5sh&label=Profile%20Views&color=blue&style=flat-square" alt="Visitor Count" />
+</p>
+
 
 _Thanks for stopping by! ⭐ Feel free to explore my repositories and leave a star if something interests you!_
