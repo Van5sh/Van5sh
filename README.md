@@ -68,11 +68,9 @@ I'm a **third-year Computer Science student at VIT Vellore**, passionate about l
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Van5sh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Van5sh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Van5sh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Van5sh&theme=radical&show_icons=true&count_private=true&hide_border=false" alt="GitHub Stats" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Van5sh&layout=compact&theme=radical&hide_border=false" alt="Top Languages" /> <br /> <img src="https://streak-stats.demolab.com/?user=Van5sh&theme=radical&hide_border=false" alt="GitHub Streak" /> </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Van5sh&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center"> <img src="https://visitcount.itsvg.in/api?id=Van5sh&label=Profile%20Views&color=6C33FF&icon=2&pretty=true" alt="Visitor Count" /> </p>
 
 _Thanks for stopping by! ⭐ Feel free to explore my repositories and leave a star if something interests you!_
