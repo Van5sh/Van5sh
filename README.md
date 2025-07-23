@@ -72,11 +72,18 @@ I'm a **third-year Computer Science student at VIT Vellore**, passionate about l
 ---
 
 # 📊 GitHub Stats:
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Van5sh&theme=radical&show_icons=true&count_private=true&hide_border=false" alt="GitHub Stats" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Van5sh&layout=compact&theme=radical&hide_border=false" alt="Top Languages" /> <br /> <img src="https://streak-stats.demolab.com/?user=Van5sh&theme=radical&hide_border=false" alt="GitHub Streak" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Van5sh&theme=tokyonight&show_icons=true&count_private=true&hide_border=false" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Van5sh&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+  <br />
+  <img src="https://streak-stats.demolab.com/?user=Van5sh&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
 
 ---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Van5sh&label=Profile%20Views&color=blue&style=flat-square" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Van5sh&label=Profile%20Views&color=6C33FF&style=flat-square" alt="Visitor Count" />
 </p>
 
 
